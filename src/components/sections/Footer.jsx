@@ -15,7 +15,7 @@ function Footer({ theme }) {
       {/* =========== GITHUB BUTTON =========== */}
       <GitHubButton
         className="self-center"
-        href="https://github.com/dsbalico/dsfolio"
+        href="https://github.com/Pranav6185/Portfolio"
         data-color-scheme={theme}
         data-icon="octicon-star"
         data-size="large"
